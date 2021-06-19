@@ -32,4 +32,4 @@ class Triangle
 
   end
 
-end
+
